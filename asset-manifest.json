@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ERC20_token_sale/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ERC20_token_sale/static/js/main.6c447682.chunk.js",
+    "main.js.map": "/ERC20_token_sale/static/js/main.6c447682.chunk.js.map",
+    "runtime-main.js": "/ERC20_token_sale/static/js/runtime-main.523ad478.js",
+    "runtime-main.js.map": "/ERC20_token_sale/static/js/runtime-main.523ad478.js.map",
+    "static/js/2.82d73542.chunk.js": "/ERC20_token_sale/static/js/2.82d73542.chunk.js",
+    "static/js/2.82d73542.chunk.js.map": "/ERC20_token_sale/static/js/2.82d73542.chunk.js.map",
+    "index.html": "/ERC20_token_sale/index.html",
+    "precache-manifest.183d17ee87fb8e762456b504ab1d2275.js": "/ERC20_token_sale/precache-manifest.183d17ee87fb8e762456b504ab1d2275.js",
+    "service-worker.js": "/ERC20_token_sale/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ERC20_token_sale/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523ad478.js",
+    "static/js/2.82d73542.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6c447682.chunk.js"
+  ]
+}
